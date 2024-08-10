@@ -1,0 +1,131 @@
+.as{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.on:hover{
+color: blue;
+
+}
+.tw:hover{
+color: purple;
+font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.th:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.fo:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.fi:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color:gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.si:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.se:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+.ei:hover{
+    color: purple;
+    font-size:300%;
+font-weight: 900;
+border: 2px solid black;
+background-color: gold;
+text-shadow: 5px 5px 5px blue ;
+}
+/* .ni:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+}
+.te:hover{
+    color: purple;
+    font-size: 300%;
+font-weight: 900;
+border: 2px solid black;
+} */
+a{
+    color: purple;
+    font-size:300%;
+font-weight: 900;
+text-shadow: 5px 5px 5px rgb(7, 47, 244) ;
+
+}
+p{
+    color:blue;
+    font-size:300 ;
+font-weight: 900;
+font-size: 400%;
+text-shadow: 5px 5px 5px rgb(255, 0, 191) ;
+}
+.am{
+    color: green;
+    font-size: larger;
+font-weight: 900;
+border: 2px solid black;
+text-shadow: 5px 5px 5px rgb(58, 245, 12) ;
+}
+body{
+    text-align: center;
+    font-style: italic;
+}
+h1{color: darkred;
+    font-size:300 ;
+font-weight: 900;
+font-size: 500%;
+text-shadow: 5px 5px 5px rgb(228, 73, 73) ;
+}
+h2{
+    color: darkgreen;
+    font-size:300 ;
+font-weight: 900;
+font-size: 490%;
+text-shadow: 5px 5px 5px rgb(21, 226, 76) ;
+}
+h3{
+    color: indigo;
+    font-size:300 ;
+font-weight: 900;
+font-size: 470%;
+text-shadow: 5px 5px 5px rgb(248, 9, 212) ;
+}
+img{
+    width: 600px;
+    height: 500px;
+}
+.aa{
+    background-image: url('https://t4.ftcdn.net/jpg/08/08/19/87/360_F_808198776_2QYkqu8PZW6i6qt07qkk1dG6Ey87pgxx.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
